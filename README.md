@@ -4,5 +4,5 @@ The Online Train Management System provides a seamless platform for passengers t
 
 
 OUTPUT
-<img width="441" height="911" alt="Screenshot 2025-11-26 104038" src="https://github.com/user-attachments/assets/711b6365-8d2a-4972-a75a-7e0a21285dce" />
+<img width="316" height="596" alt="Screenshot 2025-11-26 104038" src="https://github.com/user-attachments/assets/711b6365-8d2a-4972-a75a-7e0a21285dce" />
 <img width="316" height="596" alt="Screenshot 2025-11-26 104054" src="https://github.com/user-attachments/assets/7b254df0-24e2-4e89-bcfe-81d274dc44ca" />
